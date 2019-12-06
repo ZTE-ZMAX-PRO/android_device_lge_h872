@@ -48,6 +48,7 @@ TARGET_2ND_CPU_VARIANT := armv7-a-neon
 
 # Crypto
 TW_INCLUDE_CRYPTO := true
+TW_INCLUDE_FBE := true
 #TARGET_KEYMASTER_WAIT_FOR_QSEE := true
 
 # Kernel
