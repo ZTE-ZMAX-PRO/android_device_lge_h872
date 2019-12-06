@@ -97,6 +97,7 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 PLATFORM_SECURITY_PATCH := 2019-01-05
+TW_USE_TOOLBOX := true
 
 # Ignore LG's bootloader wipe commands
 TW_IGNORE_MISC_WIPE_DATA := true
